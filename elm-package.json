@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "summary": "An assortment of data structures in Elm",
-  "repository": "https://github.com/zerovolts/elm-data-structures.git",
+  "summary": "Data structure implementations in various languages",
+  "repository": "https://github.com/zerovolts/data-structures.git",
   "license": "BSD3",
   "source-directories": ["src"],
   "exposed-modules": [],
